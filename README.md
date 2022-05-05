@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FakeDisciple
 - 👀 I’m interested in becoming a Data Scientist, with a long term goal of becoming a Machine Learning Speacialist.
-- 🌱 I’m currently learning to become a Data Scientist. Applying for jobs is possible but I would not be useful to my employer/s, due to me neading extensive training.
+- 🌱 I’m currently learning to become a Data Scientist.
 - 📫 How to reach me will be revealed in due time.
 
 ### Books I'm currently reading
