@@ -5,7 +5,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Practical Statistics for Data Scientists: 50 Essential Concepts](https://www.goodreads.com/review/show/4440575593?utm_medium=api&utm_source=rss) by Peter Bruce (⭐️3.96)
+- [Practical Statistics for Data Scientists: 50 Essential Concepts](https://www.goodreads.com/review/show/4440575593?utm_medium=api&utm_source=rss) by Peter Bruce (⭐️3.95)
 - [Pro Git](https://www.goodreads.com/review/show/4440573785?utm_medium=api&utm_source=rss) by Scott Chacon (⭐️4.16)
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/review/show/4440571801?utm_medium=api&utm_source=rss) by Eric Matthes (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
